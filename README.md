@@ -1,6 +1,8 @@
 # MES
 Manufacturing Execution System for Shop Floor
 
+![](https://github.com/vitorpbabo/MES/blob/main/plantfloor.jpg)
+
 **Aplicação MES em JAVA**
 
 Interface simplificada.

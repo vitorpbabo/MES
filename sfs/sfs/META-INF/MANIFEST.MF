@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jamod.jar
+Main-Class: com.feup.sfs.factory.Factory
+

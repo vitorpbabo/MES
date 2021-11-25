@@ -1,5 +1,5 @@
 # MES
-Manufacturing Execution System for Shop Floor
+Manufacturing Execution System for Shop Floor at FEUP's lab.
 
 ![](https://github.com/vitorpbabo/MES/blob/main/plantfloor.jpg)
 
